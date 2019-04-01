@@ -1,4 +1,8 @@
 mewwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 testasasfasfasfafsafs
+<<<<<<< Updated upstream
 
 retadfasfasfasfasfasdfasdfsdfsdf
+=======
+Hi nil this is rj 
+>>>>>>> Stashed changes
